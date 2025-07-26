@@ -21,7 +21,6 @@
 - [Overview](#overview)
   - [What I learned](#what-i-learned)
 - [Built with](#built-with)
-- [Features](#features)
 - [Acknowledgements](#acknowledgements)
 - [Author](#author)
 
